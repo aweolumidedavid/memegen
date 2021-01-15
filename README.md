@@ -1,1 +1,1 @@
-# memegen
+MemeGenerator
